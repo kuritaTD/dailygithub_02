@@ -11,3 +11,7 @@ day34
 ![githubday34_07png](https://user-images.githubusercontent.com/50454382/123129666-156bec80-d487-11eb-8cec-6cacae99a0d1.png)
 ![githubday34_01png](https://user-images.githubusercontent.com/50454382/123129683-17ce4680-d487-11eb-912f-b12ae8480ed0.png)
 ![githubday34_05png](https://user-images.githubusercontent.com/50454382/123129697-1a30a080-d487-11eb-9ac2-b3ec95ad09a2.png)
+day35
+![githubday36_04png](https://user-images.githubusercontent.com/50454382/123136894-66331380-d48e-11eb-9280-6f6d162896bc.png)
+![githubday35png](https://user-images.githubusercontent.com/50454382/123136909-6a5f3100-d48e-11eb-8d37-01e754203ef9.png)
+![githubday36_01png](https://user-images.githubusercontent.com/50454382/123136920-6cc18b00-d48e-11eb-8da0-31b74b9dfd86.png)
