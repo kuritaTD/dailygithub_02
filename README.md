@@ -15,3 +15,11 @@ day35
 ![githubday36_04png](https://user-images.githubusercontent.com/50454382/123136894-66331380-d48e-11eb-9280-6f6d162896bc.png)
 ![githubday35png](https://user-images.githubusercontent.com/50454382/123136909-6a5f3100-d48e-11eb-8d37-01e754203ef9.png)
 ![githubday36_01png](https://user-images.githubusercontent.com/50454382/123136920-6cc18b00-d48e-11eb-8da0-31b74b9dfd86.png)
+
+day35
+![20231027_09](https://github.com/kuritaTD/dailygithub_02/assets/50454382/354ed2f0-0c18-442e-a9b1-53b51970b93f)
+![20231027_08](https://github.com/kuritaTD/dailygithub_02/assets/50454382/aeaed650-206d-4e87-9f09-8f46e3679d94)
+![20231027_04](https://github.com/kuritaTD/dailygithub_02/assets/50454382/31ad3053-3436-4cdc-8595-32480ccbb906)
+![20231027_03](https://github.com/kuritaTD/dailygithub_02/assets/50454382/910b315a-1832-49a6-a2be-6e86e62f05b0)
+![20231027_02](https://github.com/kuritaTD/dailygithub_02/assets/50454382/0c46feb1-e310-4102-a721-14791bc7d925)
+![20231027_01](https://github.com/kuritaTD/dailygithub_02/assets/50454382/abb6e45f-d2ab-4e12-9605-ba7239adda2b)
